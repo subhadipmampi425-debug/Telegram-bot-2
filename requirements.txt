@@ -1,1 +1,7 @@
-python-telegram-bot==20.7
+python-telegram-bot==13.15
+flask==2.2.5
+transformers==4.36.2
+torch==2.0.1
+langdetect
+googletrans==4.0.0-rc1
+sentencepiece
